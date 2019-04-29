@@ -52,7 +52,7 @@ Women Techmakers Scholars will each receive a cash award for the 2019-2020 acade
 ### Who should I contact for questions?
 For questions, please email WTMScholars@google.com.
 
-## WTM Scholars Program - 2019-2020 Specific Questions
+## WTM Scholars Program - 2019-2020
 
 ### What's the deadline for 2019-2020 Scholars Program
 The application for the 2019-2020 Scholars Program is now open and will close May 31, 2019 at 23:59 SGT
@@ -63,6 +63,6 @@ For 2019-2020 session, all students graduating in 2020 and beyond are eligible t
 ### What's the application link?
 [Apply Now](https://cseduapplication.withgoogle.com/applications/wtmapac2019/create-application/edit)
 
-## WTM Scholars Program - Pakistan Specific Questions
+## WTM Scholars Program - Pakistan
 ### Can students from Pakistan apply?
 Yes, students from Pakistan are eligible to apply for the Scholars Program under the Asia Pacific (APAC) region.
