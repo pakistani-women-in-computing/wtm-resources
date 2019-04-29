@@ -1,4 +1,4 @@
-# Google WTM Scholar Program
+# Google WTM Scholars Program
 Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the field of computer science by encouraging women to excel in computing and technology and become active leaders and role models in the field. 
 
 Learn More: https://www.womentechmakers.com/scholars
@@ -52,7 +52,7 @@ Women Techmakers Scholars will each receive a cash award for the 2019-2020 acade
 ### Who should I contact for questions?
 For questions, please email WTMScholars@google.com.
 
-## 2019-2020 - WTM Scholars Program Specific Questions
+## WTM Scholars Program - 2019-2020 Specific Questions
 
 ### What's the deadline for 2019-2020 Scholars Program
 The application for the 2019-2020 Scholars Program is now open and will close May 31, 2019 at 23:59 SGT
@@ -60,6 +60,9 @@ The application for the 2019-2020 Scholars Program is now open and will close Ma
 ### What's the eligibility criteria for 2019-2020 Scholars Program 
 For 2019-2020 session, all students graduating in 2020 and beyond are eligible to apply
 
-## What's the application link?
+### What's the application link?
 [Apply Now](https://cseduapplication.withgoogle.com/applications/wtmapac2019/create-application/edit)
 
+## WTM Scholars Program - Pakistan Specific Questions
+### Can students from Pakistan apply?
+Yes, students from Pakistan are eligible to apply for the Scholars Program under the Asia Pacific (APAC) region.
